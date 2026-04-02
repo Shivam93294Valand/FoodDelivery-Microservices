@@ -1,0 +1,57 @@
+<Solution>
+  <Folder Name="/DotEnv/">
+    <File Path=".env" />
+  </Folder>
+  <Folder Name="/FoodDelivery.AdminService/">
+    <Project Path="FoodDelivery.AdminService/FoodDelivery.AdminService.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.ApiGateway/">
+    <Project Path="FoodDelivery.ApiGateway/FoodDelivery.ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.Common.Messaging/">
+    <Project Path="FoodDelivery.Common.Messaging/FoodDelivery.Common.Messaging.csproj" Id="50c73465-15d8-4116-8885-e3c71211dae9" />
+  </Folder>
+  <Folder Name="/FoodDelivery.CustomerService/">
+    <Project Path="FoodDelivery.CustomerService/FoodDelivery.CustomerService.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.DeliveryService/">
+    <Project Path="FoodDelivery.DeliveryService/FoodDelivery.DeliveryService.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.EmailService/">
+    <Project Path="FoodDelivery.EmailService/FoodDelivery.EmailService.csproj" Id="ed90d103-22c5-445a-be10-13c966f34688" />
+  </Folder>
+  <Folder Name="/FoodDelivery.OrderService/">
+    <Project Path="FoodDelivery.OrderService/FoodDelivery.OrderService.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.PaymentService/">
+    <Project Path="FoodDelivery.PaymentService/FoodDelivery.PaymentService.csproj" />
+  </Folder>
+  <Folder Name="/FoodDelivery.RestaurantService/">
+    <Project Path="FoodDelivery.RestaurantService/FoodDelivery.RestaurantService.csproj" />
+  </Folder>
+  <Folder Name="/Testing/" />
+  <Folder Name="/Testing/ApiTesting/">
+    <Project Path="Testing/ApiTesting/FoodDelivery.Admin-ApiTesting/FoodDelivery.Admin_ApiTesting.csproj" />
+    <Project Path="Testing/ApiTesting/FoodDelivery.Customer-ApiTesting/FoodDelivery.Customer_ApiTesting.csproj" />
+    <Project Path="Testing/ApiTesting/FoodDelivery.Delivery-ApiTesting/FoodDelivery.Delivery_ApiTesting.csproj" />
+    <Project Path="Testing/ApiTesting/FoodDelivery.Order-ApiTesting/FoodDelivery.Order_ApiTesting.csproj" />
+    <Project Path="Testing/ApiTesting/FoodDelivery.Payment-ApiTesting/FoodDelivery.Payment_ApiTesting.csproj" />
+    <Project Path="Testing/ApiTesting/FoodDelivery.Restaurant-ApiTesting/FoodDelivery.Restaurant_ApiTesting.csproj" />
+  </Folder>
+  <Folder Name="/Testing/IntegrationTesting/">
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Admin-IntegrationTesting/FoodDelivery.Admin_IntegrationTesting.csproj" />
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Customer-IntegrationTesting/FoodDelivery.Customer_IntegrationTesting.csproj" />
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Delivery-IntegrationTesting/FoodDelivery.Delivery_IntegrationTesting.csproj" />
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Order-IntegrationTesting/FoodDelivery.Order_IntegrationTesting.csproj" />
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Payment-IntegrationTesting/FoodDelivery.Payment_IntegrationTesting.csproj" />
+    <Project Path="Testing/IntegrationTesting/FoodDelivery.Restaurant-IntegrationTesting/FoodDelivery.Restaurant_IntegrationTesting.csproj" />
+  </Folder>
+  <Folder Name="/Testing/UnitTesting/">
+    <Project Path="Testing/UnitTesting/FoodDelivery.Admin-UnitTesting/FoodDelivery.Admin_UnitTesting.csproj" />
+    <Project Path="Testing/UnitTesting/FoodDelivery.Customer-UnitTesting/FoodDelivery.Customer_UnitTesting.csproj" Id="38ad3df3-00cd-4c1c-b32b-9866eda991d1" />
+    <Project Path="Testing/UnitTesting/FoodDelivery.Delivery-UnitTesting/FoodDelivery.Delivery_UnitTesting.csproj" />
+    <Project Path="Testing/UnitTesting/FoodDelivery.Order-UnitTesting/FoodDelivery.Order_UnitTesting.csproj" />
+    <Project Path="Testing/UnitTesting/FoodDelivery.Payment-UnitTesting/FoodDelivery.Payment_UnitTesting.csproj" />
+    <Project Path="Testing/UnitTesting/FoodDelivery.Restaurant-UnitTesting/FoodDelivery.Restaurant_UnitTesting.csproj" />
+  </Folder>
+</Solution>

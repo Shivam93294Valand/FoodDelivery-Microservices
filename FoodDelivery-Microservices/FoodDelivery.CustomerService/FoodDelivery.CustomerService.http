@@ -1,0 +1,6 @@
+@FoodDelivery.CustomerService_HostAddress = http://localhost:5255
+
+GET {{FoodDelivery.CustomerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
